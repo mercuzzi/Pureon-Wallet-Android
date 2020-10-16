@@ -10,6 +10,7 @@
     {"address": "0x89d24A6b4CcB1B6fAA2625fE562bDD9a23260359", "isPopular": true, "network": 1},
 
     {"address": "0xdAC17F958D2ee523a2206206994597C13D831ec7", "name": "USDT",   "isPopular": true, "network": 1},
+    {"address": "0xf155bae0a917f8b81d03f714a8b2290807b53d0b", "name": "PUR",   "isPopular": true, "network": 1},
     {"address": "0x514910771AF9Ca656af840dff83E8264EcF986CA", "name": "LINK",   "isPopular": true, "network": 1},
     {"address": "0xB8c77482e45F1F44dE1745F52C74426C631bDD52", "name": "BNB",    "isPopular": true, "network": 1},
     {"address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2", "name": "WETH",   "isPopular": true, "network": 1},
