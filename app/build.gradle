@@ -45,7 +45,7 @@ android {
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
         def XInfuraAPI = "XInfuraAPI"
         //Put your Infura key here, NB with over 30 - 40 users this API key will rate limit, it's only here for bootstrapping a free build
-        def DEFAULT_INFURA_API_KEY = "\"da3717f25f824cc1baa32d812386d93f\"";
+        def DEFAULT_INFURA_API_KEY = "\"9094bf7e58664495bcf6d7cf075c0937\"";
 
         buildConfigField 'int', 'DB_VERSION', '15'
         buildConfigField "String", XInfuraAPI, DEFAULT_INFURA_API_KEY
